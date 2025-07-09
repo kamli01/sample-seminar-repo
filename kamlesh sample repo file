@@ -1,0 +1,37 @@
+# Sample Repository
+
+Welcome to your sample repository! This repo demonstrates the basic structure and content for a typical GitHub project.
+
+## Features
+
+- Example code and documentation
+- Simple project structure
+- Instructions for setup and usage
+
+## Getting Started
+
+To get started, clone this repository:
+
+```bash
+git clone https://github.com/your-username/sample-repo.git
+cd sample-repo
+```
+
+## Usage
+
+Edit files as needed and commit your changes:
+
+```bash
+echo "Hello, World!" > hello.txt
+git add hello.txt
+git commit -m "Add hello.txt"
+git push
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
